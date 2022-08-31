@@ -3,3 +3,8 @@ Hi. This text is.. git study text.
 Therefore.. Cheer up !!!
 
 Thank you.. ^^
+
+----------------------------------------------
+Yeah ~!!!
+
+I will study Commit Modified this time !!
