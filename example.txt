@@ -8,3 +8,9 @@ Thank you.. ^^
 Yeah ~!!!
 
 I will study Commit Modified this time !!
+
+----------------------------------------------
+Check !!! 
+I uesd command -> git diff !!
+
+----------------------------------------------
